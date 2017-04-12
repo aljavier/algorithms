@@ -1,6 +1,0 @@
-c:\users\aj0110512\documents\visual studio 2015\Projects\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe.config
-C:\Users\aj0110512\Documents\Visual Studio 2015\Projects\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe
-C:\Users\aj0110512\Documents\Visual Studio 2015\Projects\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.pdb
-C:\Users\aj0110512\Documents\Visual Studio 2015\Projects\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.csprojResolveAssemblyReference.cache
-C:\Users\aj0110512\Documents\Visual Studio 2015\Projects\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.exe
-C:\Users\aj0110512\Documents\Visual Studio 2015\Projects\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.pdb
